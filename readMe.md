@@ -6,7 +6,7 @@ This project focuses on developing a computer vision solution using Deep Learnin
 ## 1. Segmentation Phase
 - Dynamic UNet Architecture from scratch: Designed to process high-resolution microscopy images, enabling precise segmentation of embryonic tissues.
 
-![Image](images/segmentation.png)
+![Image](images/output_20230523_JK_230013_BRAF_mc_8_from_1_comparison.png)
 
 ## 2. Profiling Phase
 - Custom CNN Model: Built to accommodate variable image resolutions, allowing for the extraction of multiple tissue properties from segmented images.
